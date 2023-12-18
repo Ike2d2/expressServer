@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+    background-color: #F0F;
+    font-family: sans-serif;
+}
